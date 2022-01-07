@@ -1,0 +1,12 @@
+CREATE TABLE trace (
+    code CHAR(5),
+    name CHAR(4),
+    component CHAR(3),
+    start DATETIME,
+    final DATETIME,
+    type INTEGER,
+    location VARCHAR,
+    CONSTRAINT register_PK PRIMARY KEY (code,name,component),
+    CONSTRAINT earthquake_FK FOREIGN KEY (code) REFERENCES earthquake,
+    CONSTRAINT station_FK FOREIGN KEY (name) REFERENCES station
+)

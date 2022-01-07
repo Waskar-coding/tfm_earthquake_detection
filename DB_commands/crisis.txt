@@ -1,0 +1,10 @@
+CREATE TABLE crisis (
+    location VARCHAR,
+    start DATETIME,
+    final DATETIME,
+    min_latitude FLOAT,
+    max_latitude FLOAT,
+    min_longitude FLOAT,
+    max_longitude FLOAT
+    type INTEGER
+)

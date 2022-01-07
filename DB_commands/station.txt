@@ -1,0 +1,8 @@
+CREATE TABLE station (
+name CHAR(4),
+network CHAR(2),
+latitude NUMERIC(6,4),
+longitude NUMERIC(5,4),
+altitude INTEGER,
+CONSTRAINT station_PK PRIMARY KEY (name)
+)

@@ -1,0 +1,12 @@
+CREATE TABLE register (
+code CHAR(5),
+name CHAR(4),
+dist NUMERIC(3,2),
+p_time TIME,
+s_time TIME,
+amplitude FLOAT(1),
+magnitude NUMERIC(2,1),
+CONSTRAINT register_PK PRIMARY KEY (code,name),
+CONSTRAINT earthquake_FK FOREIGN KEY (code) REFERENCES earthquake,
+CONSTRAINT station_FK FOREIGN KEY (name) REFERENCES station
+)

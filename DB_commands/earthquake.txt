@@ -1,0 +1,10 @@
+CREATE TABLE earthquake (
+code CHAR(5),
+date DATE,
+time TIME,
+latitude NUMERIC(6,4),
+longitude NUMERIC(5,4),
+depth FLOAT,
+magnitude NUMERIC(2,1),
+CONSTRAINT register_PK PRIMARY KEY (code)
+)

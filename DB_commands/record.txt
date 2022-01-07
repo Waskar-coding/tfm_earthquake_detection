@@ -1,0 +1,15 @@
+CREATE TABLE record(
+code CHAR(5),
+name CHAR(4),
+component CHAR(3),
+type INTEGER,
+p_pick INTEGER,
+s_pick INTEGER,
+e_start INTEGER,
+e_final INTEGER,
+split INTEGER,
+location VARCHAR,
+CONSTRAINT register_PK PRIMARY KEY (code,name,component),
+CONSTRAINT earthquake_FK FOREIGN KEY (code) REFERENCES earthquake,
+CONSTRAINT station_FK FOREIGN KEY (name) REFERENCES station
+)
