@@ -1,0 +1,160 @@
+Code	Name	Latitude(°)	Longitude(°)	Altitude (m)	Sensors	Owner
+CA.ARBS
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-la-Rabassa-ARBS>
+La Rabassa	42.4345	1.5338	2145	Broadband velocimeter	IEA
+CA.AVIN
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-d-Avinyo-AVIN>
+Avinyó	41.8438	1.9655	334	Accelerometer	ICGC
+CA.BAIN
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Barcelona-Placa-Tetuan-BAIN>
+Barcelona - Plaça Tetuan	41.3960	2.1730	22	Accelerometer	ICGC
+CA.BAJU
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Barcelona-Ciutat-Vella-BAJU>
+Barcelona - Ciutat Vella	41.3853	2.1741	25	Accelerometer	ICGC
+CA.BLAN
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Blanes-BLAN>
+Blanes	41.6839	2.7942	20	Accelerometer	ICGC
+CA.CADI
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Cadi-CADI>
+Cadí	42.3393	1.8349	1207	Broadband velocimeter	IEC
+CA.CARA
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-Val-d-Aran-CARA>
+Val d'Aran	42.7076	0.8181	1627	Broadband velocimeter	ICGC
+CA.CAVN
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-les-Avellanes-CAVN>
+Les Avellanes	41.8816	0.7506	634	Broadband velocimeter	ICGC
+CA.CBEU
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-Beuda-CBEU>
+Beuda	42.2556	2.6758	824	Broadband velocimeter	ICGC
+CA.CBRU
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-Bruguera-CBRU>
+Bruguera	42.2844	2.1790	1327	Broadband velocimeter	ICGC
+CA.CBUD
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-Buda-CBUD>
+Illa de Buda	40.7044	0.8263	5	Broadband velocimeter	ICGC
+CA.CCAS
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Cassa-de-la-Selva-CCAS>
+Cassà de la Selva	41.8829	2.9041	197	Broadband velocimeter	ICGC
+CA.CELO
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Sant-Celoni-CELO>
+Sant Celoni	41.6896	2.4926	151	Accelerometer	ICGC
+CA.CEST
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-d-Esterri-de-Cardos-CEST>
+Esterri de Cardós	42.5987	1.2541	1325	Broadband velocimeter	ICGC
+CA.CFAR
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-del-Far-de-la-Banya-CFAR>
+Far de la Banya	40.5604	0.6614	2	Broadband velocimeter	ICGC
+CA.CFON
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Fontmartina-CFON>
+Fontmartina	41.7612	2.4346	973	Broadband velocimeter	ICGC
+CA.CGAR
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Garraf-CGAR>
+Garraf	41.2933	1.9137	584	Broadband velocimeter	ICGC
+CA.CGIR
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Girona-Universitat-CGIR>
+Girona - Universitat	41.9860	2.8278	102	Accelerometer	ICGC
+CA.CGIS
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Girona-Generalitat-CGIS>
+Girona - Generalitat	41.9809	2.8216	70	Accelerometer	ICGC
+CA.CGRN
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Granollers-CGRN>
+Granollers	41.6070	2.2884	153	Accelerometer	ICGC
+CA.CLLI
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Llivia-CLLI>
+Llívia	42.4781	1.9730	1413	Broadband velocimeter and Accelerometer	ICGC
+CA.CMAS
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-Sismica-de-Mas-de-Barberans-CMAS>
+Mas de Barberans	40.7257	0.3139	530	Broadband velocimeter	ICGC
+CA.CMON
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Montserrat-CMON>
+Montserrat	41.5933	1.8363	730	Accelerometer	ICGC
+CA.COBS
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Casablanca-COBS>
+Casablanca	40.7141	1.3573	-160	Broadband velocimeter	ICGC
+CA.CORG
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-d-Organya-CORG>
+Organyà	42.2291	1.3165	720	Broadband velocimeter	ICGC
+CA.CORI
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-d-Orista-CORI>
+Oristà	41.9724	2.0488	621	Broadband velocimeter	ICGC
+CA.CPAL
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Palau-saverdera-CPAL>
+Palau Saverdera	42.3105	3.1624	212	Broadband velocimeter	ICGC
+CA.CSOR
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Soriguera-CSOR>
+Soriguera	42.3744	1.1327	1227	Broadband velocimeter	ICGC
+CA.CTRE
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Tremp-CTRE>
+Tremp	42.3223	0.7724	1318	Broadband velocimeter	ICGC
+CA.CTRM
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Tremp-CSTP-CTRM>
+Tremp - CSTP	42.1609	0.8936	440	Accelerometer	ICGC
+CA.FBR
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Fabra-FBR>
+Fabra	41.4184	2.1240	405	Broadband velocimeter and Accelerometer	ICGC
+CA.ICJA
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Barcelona-ICTJA-CSIC-ICJA>
+Barcelona - ICTJA-CSIC	41.3844	2.1189	105	Broadband velocimeter	Geo3Bcn
+CA.ILER
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Lleida-ILER>
+Lleida	41.6153	0.6262	171	Accelerometer	ICGC
+CA.LLIS
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Llivia-Poliesportiu-LLIS>
+Llívia - Poliesportiu	42.4626	1.9783	1198	Accelerometer	ICGC
+CA.MTJR
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Barcelona-Montjuic-MTJR>
+Barcelona - Montjuïc	41.3701	2.1561	51	Accelerometer	ICGC
+CA.OLOS
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-d-Olot-OLOS>
+Olot	42.1814	2.4893	436	Accelerometer	ICGC,IGN
+CA.POBL
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-del-Monestir-de-Poblet-POBL>
+Monestir de Poblet	41.3793	1.0835	500	Broadband velocimeter	IEC
+CA.REUS
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Reus-REUS>
+Reus	41.1348	1.1859	48	Accelerometer	ICGC
+CA.SCOL
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Santa-Coloma-SCOL>
+Santa Coloma	42.4930	1.4963	961	Accelerometer	IEA
+CA.VAN2
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Vandellos2-VAN2>
+Vandellòs 2	40.9532	0.8266	165	Broadband velocimeter	IEC
+CA.VIER
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Vielha-Casau-VIER>
+Vielha - Casau	42.7065	0.7863	1116	Accelerometer	ICGC
+CA.VIES
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Vielha-Hospitau-VIES>
+Vielha - Hospitau	42.7016	0.7969	986	Accelerometer	ICGC,IGN
+CA.VNIG
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Vilanova-VNIG>
+Vilanova i la Geltrú	41.1821	1.7525	-20	Broadband velocimeter	UPC
+EB.ALCN
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-d-Alcanar-ALCN>
+Alcanar	40.5593	0.4809	177	Broadband velocimeter	OE
+EB.EBR
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-d-Ebre-EBR>
+Ebre	40.8202	0.4939	36	Broadband velocimeter	OE
+ES.EJON
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-La-Jonquera-EJON>
+La Jonquera	42.4487	2.8886	570	Broadband velocimeter	IGN
+ES.EMIR
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-del-Miracle-EMIR>
+El Miracle	41.9144	1.5258	841	Broadband velocimeter	IGN
+ES.EPOB
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Poblet-EPOB>
+Poblet	41.3527	1.0786	890	Broadband velocimeter	IGN
+ES.ERTA
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-d-Horta-de-Sant-Joan-ERTA>
+Horta de Sant Joan	40.9567	0.3335	547	Broadband velocimeter	IGN
+ES.EXQUE
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Queralbs-EXQUE>
+Queralbs	42.3483	2.1627	1196	Accelerometer	ICGC,IGN
+ES.EXRIP
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-Ripoll-EXRIP>
+Ripoll	42.2000	2.1886	687	Accelerometer	ICGC,IGN
+ES.EXSEU
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-sismica-de-La-Seu-d-Urgell-EXSEU>
+La Seu d'Urgell	42.3580	1.4599	707	Accelerometer	ICGC,IGN
+FR.PAND
+<https://www.icgc.cat/en/Administracio-i-empresa/Serveis/Terratremols-enregistrats-i-informacio-sismica/Xarxes-sismiques/Estacions-sismiques/Estacio-Sismica-d-Andorre-PAND>
+Andorre	42.5225	1.5467	1857	Broadband velocimeter	IEA,OMP
